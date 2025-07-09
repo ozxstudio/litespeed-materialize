@@ -1,0 +1,41 @@
+🧰 Use Cases
+Blogger template development
+
+Static website landing pages
+
+Lightweight portfolio or resume sites
+
+Mobile-first UI prototyping
+
+# litespeed-materialize/
+- ├── dist/                  # Compiled CSS/JS
+- ├── scss/                  # Source SCSS modules
+- ├── components/            # Navbar, Cards, Modals, etc
+- ├── templates/             # HTML snippets and demos
+- └── index.html             # Preview / Live Demo
+
+Licensed under the MIT License. Free for personal and commercial use.
+
+Created by OZXLabz Studios — Powered by ❤️ and Open Source spirit.
+
+## 📌 TODO (Development Roadmap)
+
+ Remove unused Materialize components
+
+ Improve mobile accessibility
+
+ Add lightweight dark mode toggle
+
+ Provide Blogger template starter
+
+ Integrate dropdown + modal with pure CSS
+
+- 🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or improve.
+
+
+# # ☕ Support & Contact
+Got questions or feedback?
+
+📧 Email: nolsenx@gmail.com
+🌐 Website: https://www.ozxstudio.com
